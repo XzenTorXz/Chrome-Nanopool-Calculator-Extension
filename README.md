@@ -1,0 +1,1 @@
+"# Chrome-Nanopool-Calculator-Extension" 

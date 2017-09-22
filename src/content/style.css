@@ -1,0 +1,15 @@
+.loose{
+    color: red;
+}
+.gain{
+    color: green;
+}
+
+#addCalcOptions .form-group{
+    /*width: auto;*/
+    float: left;
+}
+
+#saveAddCalc{
+    margin-top: 5px;
+}
