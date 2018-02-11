@@ -16,10 +16,10 @@ $(function () {
         var optionsValues = options.getValues();
         $('.addCalc').remove();
         
-        if(optionsValues.consumption && optionsValues.price && optionsValues.curency){
+        if(optionsValues.consumption && optionsValues.price){
             var watt = optionsValues.consumption;
             var kWPrice = optionsValues.price;
-            var curencyCol = optionsValues.curency;
+            var curencyCol = 3;
             var coinCol = 1;
             
             var tableHead = [];
